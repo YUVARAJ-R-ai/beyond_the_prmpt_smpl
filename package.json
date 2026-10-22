@@ -1,0 +1,9 @@
+{
+  "name": "beyond-the-prompt-landing",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Landing page for the Beyond The Prompt AI/agentic tech event.",
+  "scripts": {
+    "dev": "python3 -m http.server 8080"
+  }
+}
